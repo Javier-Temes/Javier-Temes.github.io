@@ -66,6 +66,20 @@ main {
     margin-left: 20px;
 }
 
+/* Formulario de contacto */
+form label, 
+form input, 
+form textarea, 
+form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+form button {
+    width: auto;
+}
+
 /* Pie de página */
 footer {
     text-align: center;
