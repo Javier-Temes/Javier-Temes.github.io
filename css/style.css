@@ -64,7 +64,7 @@ main {
     height: auto;
     border-radius: 10px;
     float: right;
-    margin-left: 20px;
+    margin: 20px;
 }
 
 /* Formulario de contacto */
@@ -93,6 +93,4 @@ footer {
     background: #FFAC1C;
     color: white;
     margin-top: 40px;
-    font-size: 18px;
-    text-align: justify;
 }
